@@ -1,0 +1,80 @@
+body {
+	background-color: #13539b;
+    padding: 150px;
+}
+
+h1	{
+	color: #eb2872;
+	text-align: center;
+}
+
+
+h2 {
+	color : #f1cb71;
+	text-align: center;
+}
+
+
+
+
+img {
+	width: 100px;
+	height: 500px;
+	object-fit: cover;
+}
+
+img {
+	width:600px;
+	height: 200px;
+	object-fit: cover;
+}
+
+.Aglodebrive {
+	width: 200px ;
+	height: 200px;
+	object-fit: cover;
+}
+
+.nrj {
+	width: 200px ;
+	height: 200px;
+	object-fit: cover;
+}
+
+.vivendi {
+	width: 700px;
+	height: 200px;
+	object-fit: cover;
+}
+
+div	{
+	background-color:#82adca;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border: 15px solid steelblue;
+}
+
+.navigation-aligned {
+	display: flex;
+	justify-content: space-around;
+	padding: 30px;
+}
+
+a {
+color:#f1cb71;
+text-decoration: none;
+}
+
+a:hover {
+	color: #fffdfb;
+	font-size: 22px;
+	font-weight: bolder;
+}
+
+.elements-trois {
+	text-align: center;
+}
+
+
